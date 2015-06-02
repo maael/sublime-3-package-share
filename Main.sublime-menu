@@ -1,0 +1,22 @@
+[{
+	"id": "preferences",
+	"children": [{
+		"id": "package-settings",
+	    "children": [{
+	      	"caption": "Package Share",
+	      	"children": [{
+                "command": "open_file",
+                "args": {
+                    "file": "${packages}/Package Share/Package Share.sublime-settings"
+                },
+	        	"caption": "Settings - Default"
+	    	}, {
+                "command": "open_file",
+                "args": {
+                    "file": "${packages}/User/Package Share.sublime-settings"
+                },
+	        	"caption": "Settings - User"
+	    	}]
+	    }]
+	}]
+}]
