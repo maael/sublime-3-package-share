@@ -1,6 +1,7 @@
 [
-    { "caption": "Package Share: Export", "command": "sharer_export" },
-    { "caption": "Package Share: Import", "command": "sharer_import" },
-    { "caption": "Package Share: Fetch Latest", "command": "sharer_fetch" },
+    { "caption": "Package Share: Select Configuration", "command": "sharer_fetch" },
+    { "caption": "Package Share: Save Current As New Configuration", "command": "sharer_save_current_as_new" },
+    { "caption": "Package Share: Save Changes To Current Configuration", "command": "sharer_save_current" },
+    { "caption": "Package Share: Update Current Configuration", "command": "sharer_update_current" },
     { "caption": "Package Share: Upload", "command": "sharer_upload" }
 ]
